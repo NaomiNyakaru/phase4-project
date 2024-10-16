@@ -1,9 +1,7 @@
 ## Medical Reminder API - README
-![m r](https://github.com/user-attachments/assets/b919cd71-0db0-43d5-ab7f-f92662d306bb)
-
 - For this project, you'll be building an API to manage medication reminders for users, ensuring they keep track of their prescriptions and dosage schedules.
 ## Project Overview
-
+![m r](https://github.com/user-attachments/assets/b919cd71-0db0-43d5-ab7f-f92662d306bb)
 ## In this repository
 - There is a Flask application where you will be working on the backend functionality.
     - The database models are defined, and your task will involve creating routes to interact with these models.
