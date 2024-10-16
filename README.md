@@ -3,8 +3,6 @@
 - For this project, you'll be building an API to manage medication reminders for users, ensuring they keep track of their prescriptions and dosage schedules.
 ## Project Overview
 
-![medical reminder](./assets/medical_reminder.png)
-
 ## In this repository
 - There is a Flask application where you will be working on the backend functionality.
     - The database models are defined, and your task will involve creating routes to interact with these models.
